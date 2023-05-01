@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarelsherif010&label=Profile%20views&color=0e75b6&style=flat" alt="omarelsherif010" /> </p>
 
-<p align="left"> <a href="https://twitter.com/omarelsherif010" target="blank"><img src="https://img.shields.io/twitter/follow/omarelsherif010?logo=twitter&style=for-the-badge" alt="omarelsherif010" /></a> </p>
 
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
